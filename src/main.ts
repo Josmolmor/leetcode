@@ -153,7 +153,7 @@ Minimal additional space for maintaining the event loop stack or promise chain. 
     Complexity: Time: O(n log n), Space: O(n)
   </div>
   <div class="card">
-    <h3> Maximum Subarray (Kadane’s Algorithm)</h3>
+    <h3>✅ Maximum Subarray (Kadane’s Algorithm)</h3>
     Find the contiguous subarray within an array that has the largest sum.
     <pre>Example: [-2,1,-3,4,-1,2,1,-5,4] -> 6 (subarray: [4,-1,2,1])</pre>
     Key Concepts: Dynamic programming, array manipulation.
